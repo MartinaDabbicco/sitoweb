@@ -2,19 +2,12 @@
 /*tutte le righe devono finire con "punto e virgola" */
 
 body{
-    background-color: rgb(174, 213, 200);
-    color: rgb(18, 87, 151);
-    font-family: 'HalyardDis_ISIAU Bk';
-
-   
+ font-family: 'HalyardDis_ISIAU Bk';
+  
 }
 /* commenti */
 /* il colore messo nel body comanda su tutta la pagina web */
 
-h1{
-    background-color: rgb(255, 255, 255);
-    color: rgb(49, 49, 48);
-}
 
 /*h2 {
     color: #ff0000;
@@ -24,14 +17,14 @@ h1{
 /* ogni riga di proprietà va chiusa con ;   */
 
 a{
-    color: rgb(145, 21, 21);
-    text-decoration: overline; /* togliere la sottolineatura del link */
+border-bottom: 1px solid black; /*shorthand*/
+   /* text-decoration: overline;  togliere la sottolineatura del link */
 }
 
 a:hover{
-    color: coral;
+    color: rgb(0, 0, 0);
     text-decoration: underline;
-    font-weight: 700;
+
 } /* per modificare i link quando il cursore viene messo sopra */
 
 
