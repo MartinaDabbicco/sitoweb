@@ -1,0 +1,46 @@
+/* body è un selettore*/
+
+body{
+    background-color: rgb(174, 213, 200);
+    color: rgb(18, 87, 151)
+   
+}
+/* commenti */
+/* il colore messo nel body comanda su tutta la pagina web */
+
+h1{
+    background-color: rgb(255, 255, 255);
+    color: rgb(49, 49, 48);
+}
+
+/*h2 {
+    color: #ff0000;
+    color: rgba(red, green, blue, alpha) per mettere la trasparenza nella 4 casella 
+}*/ 
+
+/* ogni riga di proprietà va chiusa con ;   */
+
+a{
+    color: rgb(145, 21, 21);
+    text-decoration: overline; /* togliere la sottolineatura del link */
+}
+
+a:hover{
+    color: coral;
+    text-decoration: underline;
+    font-weight: 700;
+} /* per modificare i link quando il cursore viene messo sopra */
+
+
+a:visited {
+    color: blueviolet;
+    text-decoration: line-through;
+} /* quando visiti un link poi cambia colore*/
+
+h4{
+    font-style: italic;
+}
+p{
+    font-family: 'Sacramento', cursive;
+    font-size: 28px;
+}
