@@ -20,6 +20,7 @@ color: black;
 a{
 border-bottom: 1px solid black; /*shorthand*/
    /* text-decoration: overline;  togliere la sottolineatura del link */
+   text-decoration: none;
 }
 
 a:hover{
