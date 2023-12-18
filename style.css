@@ -1,8 +1,10 @@
 /* body è un selettore*/
+/*tutte le righe devono finire con "punto e virgola" */
 
 body{
     background-color: rgb(174, 213, 200);
-    color: rgb(18, 87, 151)
+    color: rgb(18, 87, 151);
+    font-family: 'HalyardDis_ISIAU Bk';
 
    
 }
