@@ -5,6 +5,7 @@ body{
 color: black;
  font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif; /* se il nome della font ha più di una parola va messo tra virgolette*/
  font-size: 28px; 
+ display: flex;
 }
 /* commenti */
 /* il colore messo nel body comanda su tutta la pagina web */
@@ -29,6 +30,7 @@ a:hover{
 
 } /* per modificare i link quando il cursore viene messo sopra */
 
+div{ background-color: beige;}
 
 a:visited {
     color: rgb(0, 0, 0);
