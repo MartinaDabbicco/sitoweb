@@ -30,7 +30,7 @@ a:hover{
 
 } /* per modificare i link quando il cursore viene messo sopra */
 
-div{ background-color: beige;}
+div{ background-color: rgb(255, 255, 255);}
 
 a:visited {
     color: rgb(0, 0, 0);
